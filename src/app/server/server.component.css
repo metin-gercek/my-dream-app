@@ -1,0 +1,18 @@
+/* section {
+    background-color: blue;
+    color: bisque;
+    padding: 1rem;
+    margin: 1rem;
+} */
+
+/*app-serverin säännöt*/
+.app-server {
+    background-color: blue;
+}
+.app-server * {
+    color: bisque;
+}
+
+.online {
+    border: 5px bisque double;
+}
